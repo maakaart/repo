@@ -9,11 +9,13 @@ teine tekst tekst teksttekst teksttekst teksttekst teksttekst teksttekst tekst
 test    
 
 
-[üks link](www.ut.ee)    
+[üks link](http://www.ut.ee)    
 
 
 ![alt text](https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "Logo Title Text 1")   
 
+Kuna siin viidatakse, pilti, millele teisel kasutajal pole ligipääsu,
+siis näidatakse `[alt text]`iga määratut (ehk siis `alt text`):
 
 ![alt text](C:/ANTO/ettekandeid/dataScienceSeminar/untitled.png)
 
